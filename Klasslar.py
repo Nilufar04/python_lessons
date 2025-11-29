@@ -61,8 +61,7 @@ talabaqiz1 = Student("Lola","Gulmonova",2007,"Oliy","lolagulmonova07@gmail.com",
 print(talabaqiz.get_info())
 print(talabaqiz1.get_info())
 
-#
-3-Masala
+#3-Masala
 class Student:
     def __init__(self,ism,familiya,yil):
         self.ism= ism
